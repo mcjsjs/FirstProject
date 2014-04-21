@@ -2,8 +2,8 @@
 public class MainClass {
 
 	public static void main(String[] args) {
-		// TODO ÀÚµ¿ »ı¼ºµÈ ¸Ş¼Òµå ½ºÅÓ
-		System.out.println("Ã¹¹øÂ° ÇÁ·ÎÁ§Æ®");
+	
+		System.out.println("ì²«ë²ˆì§¸ í”„ë¡œì íŠ¸");
 	}
 
 }
